@@ -42,6 +42,7 @@ body {
 
 a{
     text-decoration: none; /* これで下線が消えます */
+    color: inherit;
 }
 /* Make images easier to work with */
 img,
