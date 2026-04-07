@@ -199,6 +199,7 @@ body{
 }
 .fv-txt{
     width: 100%;
+    max-width: 600px;
     padding: 20px;
     background-color: var(--color-main);
     font-size: var(--fz-24);
